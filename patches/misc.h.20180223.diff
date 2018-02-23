@@ -1,0 +1,11 @@
+--- /home/yy/stasm/stasm4.1.0/stasm/misc.h	2018-02-23 14:47:32.785012000 -0500
++++ /home/yy/face_morpher/stasm4.1.02/stasm4.1.0/stasm/misc.h	2018-02-23 14:17:42.593012000 -0500
+@@ -4,7 +4,7 @@
+ 
+ #ifndef STASM_MISC_H
+ #define STASM_MISC_H
+-#include <opencv2/objdetect.hpp>
++#include <opencv2/objdetect/objdetect.hpp>
+ 
+ namespace stasm
+ {

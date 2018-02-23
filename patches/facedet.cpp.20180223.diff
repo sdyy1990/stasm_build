@@ -1,0 +1,11 @@
+--- /home/yy/stasm/stasm4.1.0/stasm/MOD_1/facedet.cpp	2018-02-23 14:53:51.329012000 -0500
++++ /home/yy/face_morpher/stasm4.1.02/stasm4.1.0/stasm/MOD_1/facedet.cpp	2018-02-23 14:44:08.549012000 -0500
+@@ -3,7 +3,7 @@
+ // Copyright (C) 2005-2013, Stephen Milborrow
+ 
+ #include "../stasm.h"
+-#include "opencv2/imgproc.hpp"
++#include "opencv2/imgproc/imgproc.hpp"
+ 
+ namespace stasm
+ {

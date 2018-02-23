@@ -1,0 +1,11 @@
+--- pinstart.cpp.bak	2018-02-23 14:16:43.145012000 -0500
++++ pinstart.cpp	2018-02-23 14:26:45.529012000 -0500
+@@ -3,7 +3,7 @@
+ // Copyright (C) 2005-2013, Stephen Milborrow
+ 
+ #include "stasm.h"
+-#include "opencv2/imgproc.hpp"
++#include "opencv2/imgproc/imgproc.hpp"
+ 
+ namespace stasm
+ {

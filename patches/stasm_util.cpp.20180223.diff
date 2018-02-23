@@ -1,0 +1,11 @@
+--- /home/yy/stasm/stasm4.1.0/stasm_util.cpp	2018-02-23 15:03:51.757012000 -0500
++++ /home/yy/face_morpher/stasm4.1.02/stasm4.1.0/stasm_util.cpp	2018-02-23 14:30:43.809012000 -0500
+@@ -5,7 +5,7 @@
+ #include <stdlib.h>
+ #include "opencv/highgui.h"
+ #include "stasm.h"
+-#include <opencv2/highgui.hpp>
++#include <opencv2/highgui/highgui.hpp>
+ 
+ namespace stasm {
+ static int  showimg_g = false;                // -s flag
